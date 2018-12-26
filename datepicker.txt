@@ -1,3 +1,5 @@
+Ecample for how to write date picker in your project
+
 <div class="container">
         <br />
         <input id="datepicker" width="270" />
